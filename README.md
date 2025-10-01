@@ -1,4 +1,4 @@
-Here's a compelling description for your Python journey series:
+Here's a compelling description for my Python journey series:
 
 Daily Python Journey: From Beginner to Builder
 Welcome to my coding adventure! 🐍
